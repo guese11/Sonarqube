@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#author:sergeb guetsa
+#author:serge guetsa
 #date "2023-02-20"
 #Description: this cript it to automate the installation of Sonarqube
 #Follow below steps successively to install sonarqube on your centOS server. 
